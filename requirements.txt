@@ -1,0 +1,18 @@
+
+langchain 
+langchain_openai
+streamlit
+langchain_community
+langserve
+fastapi
+uvicorn
+sse_starlette
+bs4
+pypdf
+chromadb
+faiss-cpu
+#python -m pip install python-dotenv
+#python -m pip install jupyterlab
+
+
+#pip install -r requirements.txt
